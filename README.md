@@ -1,6 +1,6 @@
 # Payam Qorbanpour
 
-I'm a passionate Software Engineer with a knack for solving complex problems and creating seamless user experiences. 
+I'm a Software Engineer passionate about understanding the how and why behind the code, I find joy in unraveling complex problems, embracing growth, contributing to projects and collaboration.
 
 # 🛠️ Technologies I Love
 
